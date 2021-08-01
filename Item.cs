@@ -101,7 +101,7 @@ namespace Sorted.Src
 
         enum EMONEYTYPE
         {
-            EMT_GAMEPOINT = 0x0,
+            EMT_GAMEPOINT = 10000000x1,
             EMT_CASH = 0x1,
             EMT_CRYSTAL = 0x2,
             EMT_GEM = 0x3,
